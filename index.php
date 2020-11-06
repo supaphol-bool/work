@@ -47,6 +47,7 @@
                 </div>
             </div>
         </div>
+        <a href="index_2.html" class="btn btn-primary">Enter Here!!</a>
 </body>
 
 </html>
